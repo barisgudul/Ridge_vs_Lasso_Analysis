@@ -4,7 +4,7 @@
 Performance comparison of Ridge (L2) and Lasso (L1) regression models on the Diabetes dataset.  
 **Objective:** Identify the most effective regularization method for blood glucose level prediction.
 
-![Ridge vs Lasso Coefficients](Lasso%40vs%40Ridge/results/RvsL.png)
+![Ridge vs Lasso Coefficients](Lasso%20vs%20Ridge/results/RvsL.png)
 
 ## 🚀 Key Features
 - Data preprocessing pipeline
@@ -54,7 +54,7 @@ cd Ridge_vs_Lasso_Analysis
 
 ```bash
 # Run the analysis script
-python LvsR.ipynb
+jupyter notebook LvsR.ipynb
 ```
 ## 📄 License
 
